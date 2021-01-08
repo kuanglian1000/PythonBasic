@@ -1,3 +1,18 @@
+# ==================================
+# Python Collections (Arrays) Python集合種類
+# There are four collection data types in the Python programming language:
+
+# List []
+#   is a collection which is ordered and changeable. Allows duplicate members.
+# Tuple ()
+#   is a collection which is ordered and unchangeable. Allows duplicate members.
+# Set {}
+#   is a collection which is unordered and unindexed. No duplicate members.
+# Dictionary {}
+#   is a collection which is unordered and changeable. No duplicate members.
+# When choosing a collection type, it is useful to understand the properties of that type. Choosing the right type for a particular data set could mean retention of meaning, and, it could mean an increase in efficiency or security.
+# ==================================
+
 # Note: Python does not have built-in support for Arrays, but Python Lists can be used instead.
 # Note: This page shows you how to use LISTS as ARRAYS, 
 # however, to work with arrays in Python you will have to import a library, like the NumPy library.
