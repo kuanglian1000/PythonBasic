@@ -6,9 +6,9 @@
 #   is a collection which is ordered and changeable. Allows duplicate members.
 # Tuple ()
 #   is a collection which is ordered and unchangeable. Allows duplicate members.
-# Set {}
+# Set {"val1","val2","val3",..}
 #   is a collection which is unordered and unindexed. No duplicate members.
-# Dictionary {}
+# Dictionary {"key1":"val1" , "key2":"val2" , "key3":"val3",..}
 #   is a collection which is unordered and changeable. No duplicate members.
 # When choosing a collection type, it is useful to understand the properties of that type. Choosing the right type for a particular data set could mean retention of meaning, and, it could mean an increase in efficiency or security.
 # ==================================
