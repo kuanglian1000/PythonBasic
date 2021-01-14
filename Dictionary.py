@@ -11,3 +11,12 @@ print(car["year"]) #
 
 car["year"] = 2020 #change value by key
 print(car)
+
+car["color"] = "red" #Add the key/value pair "color" : "red" to the car dictionary.
+print(car)
+
+car.pop("model") #刪除,用 pop
+print(car)
+
+car.clear() #清空Dic
+print(car)
